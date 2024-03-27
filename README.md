@@ -13,9 +13,9 @@ The Third Umpire Decision Review System is a Python application that allows user
 **Exit Option**: Provides a convenient option to exit the review system when done.
 
 ### Requirements
-Python 3.x
-tkinter
-OpenCV
-imutils
-PIL (Python Imaging Library)
-pyttsx3
+-Python 3.x
+-tkinter
+-OpenCV
+-imutils
+-PIL (Python Imaging Library)
+-pyttsx3
